@@ -5,6 +5,12 @@
     "URI": "Dimensionless_quantity"
   },
   {
+    "name": "quantity",
+    "dimensions": [],
+    "URI": "Dimensionless_quantity"
+  }
+  ,
+  {
     "name": "length",
     "dimensions": [],
     "URI": "Length"

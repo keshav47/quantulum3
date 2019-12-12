@@ -34,7 +34,7 @@
       "piece",
       "pc"
     ],
-    "entity": "dimensionless",
+    "entity": "quantity",
     "URI": "Set_(mathematics)",
     "dimensions": [],
     "symbols": []
