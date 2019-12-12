@@ -27,9 +27,9 @@ except ImportError:
     wikipedia = None
 
 # Quantulum
-from . import load
-from .load import cached
-from . import language
+import load
+from load import cached
+import language
 
 _LOGGER = logging.getLogger(__name__)
 

@@ -8,7 +8,7 @@
 import num2words
 
 # Quantulum
-from . import language
+import language
 
 
 ###############################################################################

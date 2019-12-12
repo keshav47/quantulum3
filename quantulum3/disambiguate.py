@@ -4,9 +4,9 @@
 """
 
 # Quantulum
-from . import classifier as clf
-from . import no_classifier as no_clf
-from . import load
+import classifier as clf
+import no_classifier as no_clf
+import load
 
 
 ###############################################################################

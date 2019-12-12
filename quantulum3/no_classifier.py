@@ -5,7 +5,7 @@
 from __future__ import division
 
 # Quantulum
-from . import load
+import load
 
 
 def disambiguate_no_classifier(entities, text, lang="en_US"):
