@@ -10,8 +10,8 @@ from collections import defaultdict
 from pathlib import Path
 
 # Quantulum
-from . import classes as c
-from . import language
+import classes as c
+import language
 
 TOPDIR = Path(__file__).parent or Path(".")
 
